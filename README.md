@@ -1,4 +1,4 @@
-[junko_diary.html](https://github.com/user-attachments/files/28203642/junko_diary.html)
+(https://github.com/user-attachments/files/28203642/junko_diary.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
